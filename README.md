@@ -14,8 +14,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/RobertaGro/MuffinShopTests
-cd MuffinShopTests
+git clone https://github.com/RobertaGro/Hostingertest
+cd Hostingertest
 
 
 Install dependencies:
@@ -98,3 +98,4 @@ Lodash – Utility library (used internally in custom commands for loops)
 Author
 
 Roberta – Test Automation Specialist
+
