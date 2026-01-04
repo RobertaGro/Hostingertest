@@ -47,7 +47,7 @@ cypress/
 tsconfig.json               # TypeScript configuration
 
 Test Scenarios
-1️⃣ MuffinShopE2E.cy.ts
+MuffinShopE2E.cy.ts
 
 Purpose: Verify full shopping workflow including adding products to cart, adjusting quantities, deleting items, and checkout.
 
@@ -98,4 +98,5 @@ Lodash – Utility library (used internally in custom commands for loops)
 Author
 
 Roberta – Test Automation Specialist
+
 
