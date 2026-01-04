@@ -11,10 +11,13 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cypress": "^15.0.0",
     "typescript": "^5.9.2"
   },
   "devDependencies": {
-    "@types/cypress": "^0.1.6"
+    "@types/cypress": "^0.1.6",
+    "@types/jest": "^30.0.0",
+    "@types/jquery": "^3.5.33",
+    "@types/mocha": "^10.0.10",
+    "cypress": "^4.12.1"
   }
 }
